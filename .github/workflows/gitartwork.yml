@@ -15,4 +15,4 @@
             user_name: anmolvishal
             # Text on contribution graph 
             text: ANMOL
-       - uses: jasineri/simple-push-action@v1
+       - uses: anmolvishal/simple-push-action@v1
