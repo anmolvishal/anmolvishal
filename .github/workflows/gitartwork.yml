@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: anmolvishal
             # Text on contribution graph 
-            text: ANMOL
+            text: ANMOL VISHAL
        - uses: anmolvishal/simple-push-action@v1
