@@ -87,6 +87,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### I'm listening to🎶:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e12eh68r4itb0lxe74gb9x844&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![gitartwork](gitartwork.svg)
@@ -95,6 +96,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolvishal&show_icons=true&locale=en&layout=compact&theme=radical" alt="anmolvishal" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anmolvishal&theme=gruvbox" alt="anmolvishal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmolvishal&theme=gruvbox" alt="anmolvishal" /></p>
 
+### Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/anmolvishal/anmolvishal/blob/output/github-contribution-grid-snake.svg)
