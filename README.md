@@ -97,4 +97,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anmolvishal&theme=gruvbox" alt="anmolvishal" /></p>
 
-![snake gif](https://github.com/anmolvishal/anmolvishal/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/anmolvishal/anmolvishal/blob/output/github-contribution-grid-snake.svg)
