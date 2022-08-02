@@ -94,9 +94,9 @@
 
 ![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmolvishal&show_icons=true&theme=cobalt)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolvishal&show_icons=true&locale=en&layout=compact&theme=radical" alt="anmolvishal" /></p>
+<p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolvishal&show_icons=true&locale=en&layout=compact&theme=radical" alt="anmolvishal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmolvishal&theme=gruvbox" alt="anmolvishal" /></p>
+<p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=anmolvishal&theme=gruvbox" alt="anmolvishal" /></p>
 
 ### Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/anmolvishal/anmolvishal/blob/output/github-contribution-grid-snake.svg)
