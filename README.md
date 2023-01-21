@@ -105,4 +105,4 @@
 <p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=anmolvishal&theme=gruvbox" alt="anmolvishal" /></p>
 
 ### Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/anmolvishal/anmolvishal/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/anmolvishal/anmolvishal/blob/output/github-contribution-grid-snake.gif)
