@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/anmolvishal6" target="blank"><img src="https://img.shields.io/twitter/follow/anmolvishal6?logo=twitter&style=for-the-badge" alt="anmolvishal6" /></a> </p>
 
-- 🌱 I’m currently learning **Electronics and Communication, Flutter**
+- 🌱 I’m currently learning **ReactJS and **
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **anmolvishal264@gmail.com**
 
@@ -74,7 +74,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
